@@ -2,6 +2,10 @@
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python\&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?logo=plotly&logoColor=white)  
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?logo=python&logoColor=white)  
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn\&logoColor=white)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
@@ -63,6 +67,3 @@ Help the company decide whether to prioritize the **mobile app** or the **websit
 
 This project is licensed under the MIT License.
 
----
-
-👉 Do you also want me to make a **GitHub-ready badge for “Open in Colab”** (so users can click and directly open your notebook)?
